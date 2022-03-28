@@ -1,0 +1,12 @@
+name = "FastTest"
+uuid = "c32c8352-cac5-4581-b119-2dd3914ca850"
+authors = ["Julian P Samaroo <jpsamaroo@jpsamaroo.me>"]
+version = "0.1.0"
+
+[deps]
+Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Dagger = "13, 14"
+julia = "1"
